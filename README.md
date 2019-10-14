@@ -3,16 +3,7 @@
 [![npm version](http://badge.fury.io/js/me-swiper.svg)](http://badge.fury.io/js/me-swiper)
 [![Download Count](http://img.shields.io/npm/dm/me-swiper.svg?style=flat)](http://www.npmjs.com/package/me-swiper)
 
-> Focus on mobile, lightweight Swiper native js plugin (3kb gziped)
-
-> Fork of original [Swipe](https://github.com/thebird/Swipe), implement custom swipe width, offset, infinite carousel and other functions for a smoother experience
-
-[中文文档](https://github.com/SimonZhangITer/me-swiper/blob/master/README.CN.md)
-
-# Preview
-<img src="https://p0.meituan.net/dpgroup/21b2252b405605a068f19c97b9d7c96b16823.png" width=120>
-
-[Preview](https://simonzhangiter.github.io/me-swiper/)
+[中文文档](https://github.com/ZootopiaGG/me-swiper/blob/master/README.CN.md)
 
 # Install
 
